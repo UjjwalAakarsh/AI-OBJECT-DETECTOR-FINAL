@@ -1,0 +1,22 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status{
+font-size: 18px;
+}
+input{
+width: 20%;
+position:center;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/55/74/54/557454f9d762c6b6c9efdaec66b4dbb9.jpg");
+}
+
+canvas{
+    border: 10px double black ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px aqua;
+    margin-top: 70px;
+}
